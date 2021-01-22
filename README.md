@@ -24,7 +24,7 @@ Input:
 Output:
 -------
 * Console window – plain text - subsequent lines contain the coordinates of the detected markers,
-eg. 10, 15. The point (0,0) is in the upper left corner of the image.
+eg. 10, 15. The point (0,0) is in the lower left corner of the image.
 
 How to start:
 -------------

@@ -8,7 +8,7 @@ The input BMP image (24-bit RGB) contains markers shown in figure below. The ima
 contain other elements. Your task is to detect all markers of given type.
 ![](forGit1.png)
 
-Characteristics of the markers:
+Characteristics of the marker 5 (our case):
 ------------------------------
 The markers are black and consist of two arms. For a given marker type, the ratio of width W to height H is constant (2 in our case). 
 Markers of a given type can be of various sizes if the proportions of the dimensions of the arms are kept. 
